@@ -1,0 +1,19 @@
+1. ?
+
+2. No, the implementations of the oprations at layers k-1 and k+1 do not need to change as it has no effect in service layer k provides
+
+3. Yes to k+1 and k-1, since layer k no longer provide a certain service, layer k+1 or layer k-1 have to implement the new service.
+
+4. nh/(M + nh)
+
+5. TelNet, FTP, TFTP, NFS, SMTP, LPD, X window, SNMP, DNS
+
+6. not learned
+
+7. a) Http://cis.unimelb.edu.au/people/index.html
+    b) 1.1
+    c) persistent
+    d) 64.0.3282.186
+    e) Mozilla5.0; information about the browser and its platform
+
+8. a) no b) yes c) no d) no e) no
